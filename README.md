@@ -1,3 +1,3 @@
 # hello-world
-Just a repository
-This is my first GitHub repository.
+Just a repository.
+This is a blank GitHub repository.
